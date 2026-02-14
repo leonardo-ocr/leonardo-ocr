@@ -32,6 +32,11 @@ Experiência prática na criação de dashboards interativos para suporte à dec
 - **Ferramentas:** Power BI, Google Data Studio, Excel Avançado.
 - **Foco:** Monitoramento de KPIs e estudos de geolocalização para expansão de franquias.
 
+#### 〰️ [Simulador da Dupla Fenda](https://github.com/leonardo-ocr/double-slit-simulator)
+Simulação visual do famoso experimento de interferência de ondas (Mecânica Quântica) feito em **Python**.
+- **Física Computacional:** Modelagem matemática da propagação e interferência de ondas.
+- **Visualização:** Renderização gráfica do padrão de interferência gerado pelas fendas.
+
 ---
 
 ### 📚 Formação & Certificações
@@ -52,3 +57,4 @@ Experiência prática na criação de dashboards interativos para suporte à dec
 
 ### 📫 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.casemiro.r@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512996695874)
