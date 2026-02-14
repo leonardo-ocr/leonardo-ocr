@@ -1,6 +1,6 @@
 # Olá, eu sou o Leonardo Rocha! 
 
-### 🚀 Desenvolvedor | Estudante de Física & ADS | Entusiasta de Aeroespaço
+### 🚀 Desenvolvedor | Estudante de Física & ADS | Entusiasta de Ciências Aeroespaciais
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas** e **Física**, apaixonado por unir a rigo do cálculo matemático com a criatividade da programação. Atualmente, foco meus estudos em **Inteligência Artificial**, **Simulação (Unity)** e **Análise de Dados**.
 
