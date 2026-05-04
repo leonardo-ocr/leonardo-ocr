@@ -50,7 +50,7 @@ Simulação visual do famoso experimento de interferência de ondas (Mecânica Q
 
 ### ⚡ Curiosidades
 
-- ♟️ Jogo xadrez regularmente para manter o pensamento estratégico afiado.
+- ♟️ Jogo xadrez regularmente.
 - 🎵 Estudo teoria musical nas horas vagas.
 
 ---
