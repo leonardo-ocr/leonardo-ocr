@@ -46,14 +46,6 @@ Simulação visual do famoso experimento de interferência de ondas (Mecânica Q
 - 📜 **CS50AI: Introduction to Artificial Intelligence with Python** - Harvard University
 - 📜 **Visual Navigation for Autonomous Vehicles** - MIT
 
----
-
-### ⚡ Curiosidades
-
-- ♟️ Jogo xadrez regularmente.
-- 🎵 Estudo teoria musical nas horas vagas.
-
----
 
 ### 📫 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.casemiro.r@gmail.com)
