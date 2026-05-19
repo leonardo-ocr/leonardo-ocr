@@ -1,12 +1,12 @@
-# Olá, eu sou o Leonardo Rocha! 
+# Leonardo Rocha 
 
-### 🚀 Desenvolvedor | Estudante de Física & ADS | Entusiasta de Ciências Aeroespaciais
+### Desenvolvedor | Estudante de Física & ADS | Entusiasta de Ciências Aeroespaciais
 
 Sou um estudante de **Análise e Desenvolvimento de Sistemas** e **Física**, apaixonado por unir a rigo do cálculo matemático com a criatividade da programação. Atualmente, foco meus estudos em **Inteligência Artificial**, **Simulação (Unity)** e **Análise de Dados**.
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Linguagens:**
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
